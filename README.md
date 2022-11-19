@@ -35,7 +35,7 @@ Features
 
 # [PT-BR]
 
-Usando um editor de códigos, você conseguirá jogar um pequeno RPJ. Para isso, você poderá criar 4 personagens. Warrior(Guerreiro),Monk(Monge),Thief(Ladrão) e Wizard(Mago).
+Usando um editor de códigos, você conseguirá jogar um pequeno RPG. Para isso, você poderá criar 4 personagens. Warrior(Guerreiro),Monk(Monge),Thief(Ladrão) e Wizard(Mago).
 
 Para atacar, você possui 2 opição, `attack`(Atacar) onde você causará dano usando a sua arma.
 E as abilidades especiais de classe. Os magos possuem `magic`(Magia), Os ladrões `steal`(Roubar), monks `combos` and warriors `protect`(Defender)
