@@ -1,0 +1,15 @@
+/home/abraao284/Desktop/projects/dotnet/final-fantasy/bin/Debug/net7.0/final-fantasy
+/home/abraao284/Desktop/projects/dotnet/final-fantasy/bin/Debug/net7.0/final-fantasy.deps.json
+/home/abraao284/Desktop/projects/dotnet/final-fantasy/bin/Debug/net7.0/final-fantasy.runtimeconfig.json
+/home/abraao284/Desktop/projects/dotnet/final-fantasy/bin/Debug/net7.0/final-fantasy.dll
+/home/abraao284/Desktop/projects/dotnet/final-fantasy/bin/Debug/net7.0/final-fantasy.pdb
+/home/abraao284/Desktop/projects/dotnet/final-fantasy/obj/Debug/net7.0/final-fantasy.csproj.AssemblyReference.cache
+/home/abraao284/Desktop/projects/dotnet/final-fantasy/obj/Debug/net7.0/final-fantasy.GeneratedMSBuildEditorConfig.editorconfig
+/home/abraao284/Desktop/projects/dotnet/final-fantasy/obj/Debug/net7.0/final-fantasy.AssemblyInfoInputs.cache
+/home/abraao284/Desktop/projects/dotnet/final-fantasy/obj/Debug/net7.0/final-fantasy.AssemblyInfo.cs
+/home/abraao284/Desktop/projects/dotnet/final-fantasy/obj/Debug/net7.0/final-fantasy.csproj.CoreCompileInputs.cache
+/home/abraao284/Desktop/projects/dotnet/final-fantasy/obj/Debug/net7.0/final-fantasy.dll
+/home/abraao284/Desktop/projects/dotnet/final-fantasy/obj/Debug/net7.0/refint/final-fantasy.dll
+/home/abraao284/Desktop/projects/dotnet/final-fantasy/obj/Debug/net7.0/final-fantasy.pdb
+/home/abraao284/Desktop/projects/dotnet/final-fantasy/obj/Debug/net7.0/final-fantasy.genruntimeconfig.cache
+/home/abraao284/Desktop/projects/dotnet/final-fantasy/obj/Debug/net7.0/ref/final-fantasy.dll
